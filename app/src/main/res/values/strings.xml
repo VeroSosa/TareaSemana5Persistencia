@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tarea 5</string>
+    <string name="toolbar_Title">Petagram</string>
+    <string name="contacto">Contacto</string>
+    <string name="about">About</string>
+    <string name="nombre">Nombre</string>
+    <string name="comentario">Comentario</string>
+    <string name="email">Correo</string>
+    <string name="btn_enviar">Enviar Comentario</string>
+    <string name="passwd">Password</string>
+    <string name="pLikes"> </string>
+</resources>
